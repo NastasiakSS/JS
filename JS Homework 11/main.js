@@ -42,4 +42,3 @@
 // btn.onclick = function (){
 //     cars(model.value, type.value, volume.value);
 // }
-
